@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>30.jpg</filename>
+	<path>C:\Users\User\projekTA_vscode\labeling\Images\test\30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>108</ymin>
+			<xmax>353</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>
